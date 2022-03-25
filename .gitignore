@@ -1,0 +1,4 @@
+# Project exclude paths
+/models/beneficiary.js
+/datatypes.js
+/functions.js
