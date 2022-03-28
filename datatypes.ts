@@ -16,6 +16,12 @@ let addressObj:any={
 let mobileNos:number[]=[32585328,4295692469,4275084757,3470870]
 let skillSet:string[]=["java","c#","ts","js","cj"]
 
+//tuple
+let customer:[[number, string, boolean], (number | string | boolean)[], (number | string | boolean)[]];
+
+customer=[[32879,'customer1',true],[32879,'customer1',true],[32879,'customer1',true]]
+
+
 // assign the literals
 firstName="Parameswari";
 lastName="Bala";
